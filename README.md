@@ -1,1 +1,1 @@
-![Wave Screenshot](/Screenshot/Wave.png)
+![Wave Screenshot](/Screenshot/Wave.PNG)
