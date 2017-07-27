@@ -1,1 +1,1 @@
-![alt waveScreenshot](Screenshot/Wave.png)
+![Wave Screenshot](/Screenshot/Wave.png)
